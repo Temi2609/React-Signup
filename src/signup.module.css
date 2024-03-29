@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(50, 95, 65, 0.5);
+}
+
+.form{
+    /* border: 1px solid red; */
+    border-radius: 8px;
+    box-sizing: border-box;
+    width: 30vw;
+    margin: 0 10px  ;
+    box-shadow: 0px 0px 15px aqua;
+    background-color: #fff;
+
+}
+
+h2{
+    text-align: center;
+    color: aqua;
+}
+
+input{
+    width: 93%;
+    height: 1.8rem;
+    border-radius: 5px;
+    border: 1px solid lightsteelblue;
+    margin:0 10px ;
+    font-size: 15px;
+    padding-left: 6px;
+}
+
+label{
+    margin-left: 10px;
+}
+
+#gender{
+    width: 95%;
+    
+}
+.btn{
+    margin-top: 10px;
+}
+
+.pass{
+    border: 1px solid rgb(166, 218, 253);   
+    text-align: justify;
+    width: 80%;
+    margin: 7px auto;
+    color: red;
+    font-size: 14px;
+    padding: 5px;
+    background-color: azure;
+    border-radius: 1em;
+}
